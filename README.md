@@ -45,6 +45,15 @@ This section contains Python programs based on conditional statements.
 20. Check if a number is a palindrome
 
 
+## Level 4: Strings
+
+21. Reverse a string  
+22. Count vowels in a string  
+23. Count consonants in a string  
+24. Convert string to uppercase  
+25. Check if string is a palindrome 
+
+
 ## How to Run
 
 ```bash
