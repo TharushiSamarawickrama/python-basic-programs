@@ -8,6 +8,7 @@ python-basic-programs
 │
 ├── basic_programs_level_1.py
 ├── basic_programs_level_2.py
+├── basic_programs_level_3.py
 └── README.md
 
 ## Programs Included (  Level 1: Warm-up )
@@ -32,6 +33,16 @@ This section contains Python programs based on conditional statements.
 12. Find the largest of three numbers  
 13. Check if a number is divisible by both 3 and 5  
 14. Create a grade system 
+
+
+## Level 3: Patterns & Numbers
+
+15. Pattern 1  
+16. Pattern 2  
+17. Pattern 3  
+18. Count digits in a number  
+19. Reverse a number  
+20. Check if a number is a palindrome
 
 
 ## How to Run
