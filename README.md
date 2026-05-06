@@ -2,16 +2,22 @@
 This repository contains Python basic programs exercises
 
 
-# folder structure
+## Folder Structure
 
-python-basic-programs
+```text
+python-basic-programs/
 │
 ├── basic_programs_level_1.py
 ├── basic_programs_level_2.py
 ├── basic_programs_level_3.py
+├── basic_programs_level_4.py
+├── basic_programs_level_5.py
+├── task_2_logic_exercises.py
 └── README.md
+```
 
-## Programs Included (  Level 1: Warm-up )
+
+## Task 1 : (  Level 1: Warm-up )
 
 01. Print numbers from 1 to 100
 02. Print numbers from 100 to 1
@@ -61,7 +67,17 @@ This section contains Python programs based on conditional statements.
 27. Check if a number is prime  
 28. Print Fibonacci numbers  
 29. Find largest number in an array  
-30. Find smallest number in an array  
+30. Find smallest number in an array 
+
+
+## Task 2: Logic Exercises
+
+
+1. FizzBuzz from 1 to 100
+2. Find largest number in an array
+3. Count vowels in a string
+4. Palindrome checker
+
 
 
 ## How to Run
