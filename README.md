@@ -54,6 +54,16 @@ This section contains Python programs based on conditional statements.
 25. Check if string is a palindrome 
 
 
+## Level 5: Logic
+
+
+26. Find factorial of a number  
+27. Check if a number is prime  
+28. Print Fibonacci numbers  
+29. Find largest number in an array  
+30. Find smallest number in an array  
+
+
 ## How to Run
 
 ```bash
