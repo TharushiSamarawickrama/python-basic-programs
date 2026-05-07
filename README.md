@@ -13,11 +13,14 @@ python-basic-programs/
 ├── basic_programs_level_4.py
 ├── basic_programs_level_5.py
 ├── task_2_logic_exercises.py
+├── task_3_cli_calculator.py
 └── README.md
 ```
 
 
-## Task 1 : (  Level 1: Warm-up )
+## Task 1: Basic Programs
+
+### Level 1: Warm-up
 
 01. Print numbers from 1 to 100
 02. Print numbers from 100 to 1
@@ -62,7 +65,6 @@ This section contains Python programs based on conditional statements.
 
 ## Level 5: Logic
 
-
 26. Find factorial of a number  
 27. Check if a number is prime  
 28. Print Fibonacci numbers  
@@ -72,11 +74,20 @@ This section contains Python programs based on conditional statements.
 
 ## Task 2: Logic Exercises
 
-
 1. FizzBuzz from 1 to 100
 2. Find largest number in an array
 3. Count vowels in a string
 4. Palindrome checker
+
+
+## Task 3: Mini Project - CLI Calculator
+
+The calculator can:
+
+1. Take two numbers from the user  
+2. Take an operation from the user  
+3. Perform addition, subtraction, multiplication, or division  
+4. Display the final result  
 
 
 
